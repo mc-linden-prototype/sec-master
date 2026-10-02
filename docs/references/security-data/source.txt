@@ -1,0 +1,5 @@
+Seed sample for the security schema. Universe: docs/references/linden-sec-filings/holdings/13F-HR-56990.xml (638 rows).
+Rule: the 100 rows with the highest reported <value> in each titleOfClass RT, COM and SDBCV, plus the only ADR row = 301 rows. <value> is used to pick the sample and is not stored anywhere.
+sample-selection.csv lists the 301 rows (filing row number, class, CUSIP, name).
+  SHA-256: cf80063d2459d005023b912f2043ce46e194eea5a834b077f30e67a5c83e204b
+Enrichment sources: openfigi/, nasdaq-trader/, sec/ (each has its own source.txt). Built into src/casm/db/migrations/04_seed_security_data.sql.

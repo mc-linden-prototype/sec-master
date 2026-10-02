@@ -1,0 +1,2738 @@
+{
+ "AAOI": {
+  "data": [
+   {
+    "figi": "BBG000D6VW15",
+    "name": "APPLIED OPTOELECTRONICS INC",
+    "ticker": "AAOI",
+    "exchCode": "US",
+    "compositeFIGI": "BBG000D6VW15",
+    "securityType": "Common Stock",
+    "marketSector": "Equity",
+    "shareClassFIGI": "BBG001SG47G4",
+    "securityType2": "Common Stock",
+    "securityDescription": "AAOI"
+   }
+  ]
+ },
+ "AFRM": {
+  "data": [
+   {
+    "figi": "BBG00Y7BP8Y1",
+    "name": "AFFIRM HOLDINGS INC",
+    "ticker": "AFRM",
+    "exchCode": "US",
+    "compositeFIGI": "BBG00Y7BP8Y1",
+    "securityType": "Common Stock",
+    "marketSector": "Equity",
+    "shareClassFIGI": "BBG00Y7BP8Z0",
+    "securityType2": "Common Stock",
+    "securityDescription": "AFRM"
+   }
+  ]
+ },
+ "APLD": {
+  "data": [
+   {
+    "figi": "BBG000DSJYS8",
+    "name": "APPLIED DIGITAL CORP",
+    "ticker": "APLD",
+    "exchCode": "US",
+    "compositeFIGI": "BBG000DSJYS8",
+    "securityType": "Common Stock",
+    "marketSector": "Equity",
+    "shareClassFIGI": "BBG001SK4K76",
+    "securityType2": "Common Stock",
+    "securityDescription": "APLD"
+   }
+  ]
+ },
+ "ARRY": {
+  "data": [
+   {
+    "figi": "BBG001V4SF46",
+    "name": "ARRAY TECHNOLOGIES INC",
+    "ticker": "ARRY",
+    "exchCode": "US",
+    "compositeFIGI": "BBG001V4SF46",
+    "securityType": "Common Stock",
+    "marketSector": "Equity",
+    "shareClassFIGI": "BBG002MX7TQ9",
+    "securityType2": "Common Stock",
+    "securityDescription": "ARRY"
+   }
+  ]
+ },
+ "ARWR": {
+  "data": [
+   {
+    "figi": "BBG000BRVKH0",
+    "name": "ARROWHEAD PHARMACEUTICALS IN",
+    "ticker": "ARWR",
+    "exchCode": "US",
+    "compositeFIGI": "BBG000BRVKH0",
+    "securityType": "Common Stock",
+    "marketSector": "Equity",
+    "shareClassFIGI": "BBG001SGT8G5",
+    "securityType2": "Common Stock",
+    "securityDescription": "ARWR"
+   }
+  ]
+ },
+ "ATEC": {
+  "data": [
+   {
+    "figi": "BBG000BBM7Y5",
+    "name": "ALPHATEC HOLDINGS INC",
+    "ticker": "ATEC",
+    "exchCode": "US",
+    "compositeFIGI": "BBG000BBM7Y5",
+    "securityType": "Common Stock",
+    "marketSector": "Equity",
+    "shareClassFIGI": "BBG001S64XQ8",
+    "securityType2": "Common Stock",
+    "securityDescription": "ATEC"
+   }
+  ]
+ },
+ "ATEN": {
+  "data": [
+   {
+    "figi": "BBG0060K22C1",
+    "name": "A10 NETWORKS INC",
+    "ticker": "ATEN",
+    "exchCode": "US",
+    "compositeFIGI": "BBG0060K22C1",
+    "securityType": "Common Stock",
+    "marketSector": "Equity",
+    "shareClassFIGI": "BBG0060K22D0",
+    "securityType2": "Common Stock",
+    "securityDescription": "ATEN"
+   }
+  ]
+ },
+ "AVAV": {
+  "data": [
+   {
+    "figi": "BBG000GX14P2",
+    "name": "AEROVIRONMENT INC",
+    "ticker": "AVAV",
+    "exchCode": "US",
+    "compositeFIGI": "BBG000GX14P2",
+    "securityType": "Common Stock",
+    "marketSector": "Equity",
+    "shareClassFIGI": "BBG001SPPWP6",
+    "securityType2": "Common Stock",
+    "securityDescription": "AVAV"
+   }
+  ]
+ },
+ "BBIO": {
+  "data": [
+   {
+    "figi": "BBG00P9KDZK6",
+    "name": "BRIDGEBIO PHARMA INC",
+    "ticker": "BBIO",
+    "exchCode": "US",
+    "compositeFIGI": "BBG00P9KDZK6",
+    "securityType": "Common Stock",
+    "marketSector": "Equity",
+    "shareClassFIGI": "BBG00P9KDZL5",
+    "securityType2": "Common Stock",
+    "securityDescription": "BBIO"
+   }
+  ]
+ },
+ "CELC": {
+  "data": [
+   {
+    "figi": "BBG00HKBW045",
+    "name": "CELCUITY INC",
+    "ticker": "CELC",
+    "exchCode": "US",
+    "compositeFIGI": "BBG00HKBW045",
+    "securityType": "Common Stock",
+    "marketSector": "Equity",
+    "shareClassFIGI": "BBG00HKBW054",
+    "securityType2": "Common Stock",
+    "securityDescription": "CELC"
+   }
+  ]
+ },
+ "CIFR": {
+  "data": [
+   {
+    "figi": "BBG00XYHY0K2",
+    "name": "CIPHER DIGITAL INC",
+    "ticker": "CIFR",
+    "exchCode": "US",
+    "compositeFIGI": "BBG00XYHY0K2",
+    "securityType": "Common Stock",
+    "marketSector": "Equity",
+    "shareClassFIGI": "BBG00XYHY0L1",
+    "securityType2": "Common Stock",
+    "securityDescription": "CIFR"
+   }
+  ]
+ },
+ "CLSK": {
+  "data": [
+   {
+    "figi": "BBG001MB89V6",
+    "name": "CLEANSPARK INC",
+    "ticker": "CLSK",
+    "exchCode": "US",
+    "compositeFIGI": "BBG001MB89V6",
+    "securityType": "Common Stock",
+    "marketSector": "Equity",
+    "shareClassFIGI": "BBG001S7F576",
+    "securityType2": "Common Stock",
+    "securityDescription": "CLSK"
+   }
+  ]
+ },
+ "COGT": {
+  "data": [
+   {
+    "figi": "BBG007DHZQR7",
+    "name": "COGENT BIOSCIENCES INC",
+    "ticker": "COGT",
+    "exchCode": "US",
+    "compositeFIGI": "BBG007DHZQR7",
+    "securityType": "Common Stock",
+    "marketSector": "Equity",
+    "shareClassFIGI": "BBG007DHY102",
+    "securityType2": "Common Stock",
+    "securityDescription": "COGT"
+   }
+  ]
+ },
+ "COIN": {
+  "data": [
+   {
+    "figi": "BBG00ZGF7771",
+    "name": "COINBASE GLOBAL INC -CLASS A",
+    "ticker": "COIN",
+    "exchCode": "US",
+    "compositeFIGI": "BBG00ZGF7771",
+    "securityType": "Common Stock",
+    "marketSector": "Equity",
+    "shareClassFIGI": "BBG00ZGF7799",
+    "securityType2": "Common Stock",
+    "securityDescription": "COIN"
+   }
+  ]
+ },
+ "COLL": {
+  "data": [
+   {
+    "figi": "BBG000N7LPW4",
+    "name": "COLLEGIUM PHARMACEUTICAL INC",
+    "ticker": "COLL",
+    "exchCode": "US",
+    "compositeFIGI": "BBG000N7LPW4",
+    "securityType": "Common Stock",
+    "marketSector": "Equity",
+    "shareClassFIGI": "BBG001T535S9",
+    "securityType2": "Common Stock",
+    "securityDescription": "COLL"
+   }
+  ]
+ },
+ "CRNC": {
+  "data": [
+   {
+    "figi": "BBG00MMDJG84",
+    "name": "CERENCE INC",
+    "ticker": "CRNC",
+    "exchCode": "US",
+    "compositeFIGI": "BBG00MMDJG84",
+    "securityType": "Common Stock",
+    "marketSector": "Equity",
+    "shareClassFIGI": "BBG00MMDJG93",
+    "securityType2": "Common Stock",
+    "securityDescription": "CRNC"
+   }
+  ]
+ },
+ "ECHO": {
+  "data": [
+   {
+    "figi": "BBG000TGLV00",
+    "name": "ECHOSTAR CORP-A",
+    "ticker": "ECHO",
+    "exchCode": "US",
+    "compositeFIGI": "BBG000TGLV00",
+    "securityType": "Common Stock",
+    "marketSector": "Equity",
+    "shareClassFIGI": "BBG001T048Z5",
+    "securityType2": "Common Stock",
+    "securityDescription": "ECHO"
+   }
+  ]
+ },
+ "ECPG": {
+  "data": [
+   {
+    "figi": "BBG000F369C7",
+    "name": "ENCORE CAPITAL GROUP INC",
+    "ticker": "ECPG",
+    "exchCode": "US",
+    "compositeFIGI": "BBG000F369C7",
+    "securityType": "Common Stock",
+    "marketSector": "Equity",
+    "shareClassFIGI": "BBG001SKFPK8",
+    "securityType2": "Common Stock",
+    "securityDescription": "ECPG"
+   }
+  ]
+ },
+ "ENOV": {
+  "data": [
+   {
+    "figi": "BBG000C5Z443",
+    "name": "ENOVIS CORP",
+    "ticker": "ENOV",
+    "exchCode": "US",
+    "compositeFIGI": "BBG000C5Z443",
+    "securityType": "Common Stock",
+    "marketSector": "Equity",
+    "shareClassFIGI": "BBG001SC04J1",
+    "securityType2": "Common Stock",
+    "securityDescription": "ENOV"
+   }
+  ]
+ },
+ "EVH": {
+  "data": [
+   {
+    "figi": "BBG005CHLM96",
+    "name": "EVOLENT HEALTH INC - A",
+    "ticker": "EVH",
+    "exchCode": "US",
+    "compositeFIGI": "BBG005CHLM96",
+    "securityType": "Common Stock",
+    "marketSector": "Equity",
+    "shareClassFIGI": "BBG005CHLMB3",
+    "securityType2": "Common Stock",
+    "securityDescription": "EVH"
+   }
+  ]
+ },
+ "FINV": {
+  "data": [
+   {
+    "figi": "BBG00HZ6P0P5",
+    "name": "FINVOLUTION GROUP-ADR",
+    "ticker": "FINV",
+    "exchCode": "US",
+    "compositeFIGI": "BBG00HZ6P0P5",
+    "securityType": "ADR",
+    "marketSector": "Equity",
+    "shareClassFIGI": "BBG00HZ6P0Q4",
+    "securityType2": "Depositary Receipt",
+    "securityDescription": "FINV"
+   }
+  ]
+ },
+ "FLNC": {
+  "data": [
+   {
+    "figi": "BBG012QSDSK6",
+    "name": "FLUENCE ENERGY INC",
+    "ticker": "FLNC",
+    "exchCode": "US",
+    "compositeFIGI": "BBG012QSDSK6",
+    "securityType": "Common Stock",
+    "marketSector": "Equity",
+    "shareClassFIGI": "BBG012QSDTD2",
+    "securityType2": "Common Stock",
+    "securityDescription": "FLNC"
+   }
+  ]
+ },
+ "FSLY": {
+  "data": [
+   {
+    "figi": "BBG004NLQHL0",
+    "name": "FASTLY INC - CLASS A",
+    "ticker": "FSLY",
+    "exchCode": "US",
+    "compositeFIGI": "BBG004NLQHL0",
+    "securityType": "Common Stock",
+    "marketSector": "Equity",
+    "shareClassFIGI": "BBG004NLQHM9",
+    "securityType2": "Common Stock",
+    "securityDescription": "FSLY"
+   }
+  ]
+ },
+ "GH": {
+  "data": [
+   {
+    "figi": "BBG006D97VY9",
+    "name": "GUARDANT HEALTH INC",
+    "ticker": "GH",
+    "exchCode": "US",
+    "compositeFIGI": "BBG006D97VY9",
+    "securityType": "Common Stock",
+    "marketSector": "Equity",
+    "shareClassFIGI": "BBG006D97VZ8",
+    "securityType2": "Common Stock",
+    "securityDescription": "GH"
+   }
+  ]
+ },
+ "GPRE": {
+  "data": [
+   {
+    "figi": "BBG000KYNTQ5",
+    "name": "GREEN PLAINS INC",
+    "ticker": "GPRE",
+    "exchCode": "US",
+    "compositeFIGI": "BBG000KYNTQ5",
+    "securityType": "Common Stock",
+    "marketSector": "Equity",
+    "shareClassFIGI": "BBG001SPVM17",
+    "securityType2": "Common Stock",
+    "securityDescription": "GPRE"
+   }
+  ]
+ },
+ "HAE": {
+  "data": [
+   {
+    "figi": "BBG000C7TF41",
+    "name": "HAEMONETICS CORP/MASS",
+    "ticker": "HAE",
+    "exchCode": "US",
+    "compositeFIGI": "BBG000C7TF41",
+    "securityType": "Common Stock",
+    "marketSector": "Equity",
+    "shareClassFIGI": "BBG001S6QB64",
+    "securityType2": "Common Stock",
+    "securityDescription": "HAE"
+   }
+  ]
+ },
+ "HLF": {
+  "data": [
+   {
+    "figi": "BBG000MM5VL9",
+    "name": "HERBALIFE LTD",
+    "ticker": "HLF",
+    "exchCode": "US",
+    "compositeFIGI": "BBG000MM5VL9",
+    "securityType": "Common Stock",
+    "marketSector": "Equity",
+    "shareClassFIGI": "BBG001SKFKY4",
+    "securityType2": "Common Stock",
+    "securityDescription": "HLF"
+   }
+  ]
+ },
+ "IMCR": {
+  "data": [
+   {
+    "figi": "BBG00YYCXFB9",
+    "name": "IMMUNOCORE HOLDINGS PLC-ADR",
+    "ticker": "IMCR",
+    "exchCode": "US",
+    "compositeFIGI": "BBG00YYCXFB9",
+    "securityType": "ADR",
+    "marketSector": "Equity",
+    "shareClassFIGI": "BBG00YYCXG54",
+    "securityType2": "Depositary Receipt",
+    "securityDescription": "IMCR"
+   }
+  ]
+ },
+ "IQ": {
+  "data": [
+   {
+    "figi": "BBG00K6DZBD3",
+    "name": "IQIYI INC-ADR",
+    "ticker": "IQ",
+    "exchCode": "US",
+    "compositeFIGI": "BBG00K6DZBD3",
+    "securityType": "ADR",
+    "marketSector": "Equity",
+    "shareClassFIGI": "BBG00K6DZC32",
+    "securityType2": "Depositary Receipt",
+    "securityDescription": "IQ"
+   }
+  ]
+ },
+ "IREN": {
+  "data": [
+   {
+    "figi": "BBG010J28KQ2",
+    "name": "IREN LTD",
+    "ticker": "IREN",
+    "exchCode": "US",
+    "compositeFIGI": "BBG010J28KQ2",
+    "securityType": "Common Stock",
+    "marketSector": "Equity",
+    "shareClassFIGI": "BBG010J28KR1",
+    "securityType2": "Common Stock",
+    "securityDescription": "IREN"
+   }
+  ]
+ },
+ "ITGR": {
+  "data": [
+   {
+    "figi": "BBG000BW6JV4",
+    "name": "INTEGER HOLDINGS CORP",
+    "ticker": "ITGR",
+    "exchCode": "US",
+    "compositeFIGI": "BBG000BW6JV4",
+    "securityType": "Common Stock",
+    "marketSector": "Equity",
+    "shareClassFIGI": "BBG001SFBS27",
+    "securityType2": "Common Stock",
+    "securityDescription": "ITGR"
+   }
+  ]
+ },
+ "ITRI": {
+  "data": [
+   {
+    "figi": "BBG000BD2167",
+    "name": "ITRON INC",
+    "ticker": "ITRI",
+    "exchCode": "US",
+    "compositeFIGI": "BBG000BD2167",
+    "securityType": "Common Stock",
+    "marketSector": "Equity",
+    "shareClassFIGI": "BBG001S6DJQ9",
+    "securityType2": "Common Stock",
+    "securityDescription": "ITRI"
+   }
+  ]
+ },
+ "JOBY": {
+  "data": [
+   {
+    "figi": "BBG00X2MYTC2",
+    "name": "JOBY AVIATION INC",
+    "ticker": "JOBY",
+    "exchCode": "US",
+    "compositeFIGI": "BBG00X2MYTC2",
+    "securityType": "Common Stock",
+    "marketSector": "Equity",
+    "shareClassFIGI": "BBG00X2MYTD1",
+    "securityType2": "Common Stock",
+    "securityDescription": "JOBY"
+   }
+  ]
+ },
+ "LEU": {
+  "data": [
+   {
+    "figi": "BBG000BQ2JM1",
+    "name": "CENTRUS ENERGY CORP-CLASS A",
+    "ticker": "LEU",
+    "exchCode": "US",
+    "compositeFIGI": "BBG000BQ2JM1",
+    "securityType": "Common Stock",
+    "marketSector": "Equity",
+    "shareClassFIGI": "BBG001S9F7B3",
+    "securityType2": "Common Stock",
+    "securityDescription": "LEU"
+   }
+  ]
+ },
+ "LIF": {
+  "data": [
+   {
+    "figi": "BBG00256NGB3",
+    "name": "LIFE360 INC",
+    "ticker": "LIF",
+    "exchCode": "US",
+    "compositeFIGI": "BBG00256NGB3",
+    "securityType": "Common Stock",
+    "marketSector": "Equity",
+    "shareClassFIGI": "BBG00256NGD1",
+    "securityType2": "Common Stock",
+    "securityDescription": "LIF"
+   }
+  ]
+ },
+ "LIVN": {
+  "data": [
+   {
+    "figi": "BBG009LGHG16",
+    "name": "LIVANOVA PLC",
+    "ticker": "LIVN",
+    "exchCode": "US",
+    "compositeFIGI": "BBG009LGHG16",
+    "securityType": "Common Stock",
+    "marketSector": "Equity",
+    "shareClassFIGI": "BBG009LGHG25",
+    "securityType2": "Common Stock",
+    "securityDescription": "LIVN"
+   }
+  ]
+ },
+ "LRN": {
+  "data": [
+   {
+    "figi": "BBG000QSXPZ9",
+    "name": "STRIDE INC",
+    "ticker": "LRN",
+    "exchCode": "US",
+    "compositeFIGI": "BBG000QSXPZ9",
+    "securityType": "Common Stock",
+    "marketSector": "Equity",
+    "shareClassFIGI": "BBG001SNN4P5",
+    "securityType2": "Common Stock",
+    "securityDescription": "LRN"
+   }
+  ]
+ },
+ "MARA": {
+  "data": [
+   {
+    "figi": "BBG001K7WBT8",
+    "name": "MARA HOLDINGS INC",
+    "ticker": "MARA",
+    "exchCode": "US",
+    "compositeFIGI": "BBG001K7WBT8",
+    "securityType": "Common Stock",
+    "marketSector": "Equity",
+    "shareClassFIGI": "BBG001V0L7T2",
+    "securityType2": "Common Stock",
+    "securityDescription": "MARA"
+   }
+  ]
+ },
+ "MKSI": {
+  "data": [
+   {
+    "figi": "BBG000BVMG26",
+    "name": "MKS INC",
+    "ticker": "MKSI",
+    "exchCode": "US",
+    "compositeFIGI": "BBG000BVMG26",
+    "securityType": "Common Stock",
+    "marketSector": "Equity",
+    "shareClassFIGI": "BBG001SBB6Q8",
+    "securityType2": "Common Stock",
+    "securityDescription": "MKSI"
+   }
+  ]
+ },
+ "MMYT": {
+  "data": [
+   {
+    "figi": "BBG000BB34J0",
+    "name": "MAKEMYTRIP LTD",
+    "ticker": "MMYT",
+    "exchCode": "US",
+    "compositeFIGI": "BBG000BB34J0",
+    "securityType": "Common Stock",
+    "marketSector": "Equity",
+    "shareClassFIGI": "BBG001T4NKS7",
+    "securityType2": "Common Stock",
+    "securityDescription": "MMYT"
+   }
+  ]
+ },
+ "MSTR": {
+  "data": [
+   {
+    "figi": "BBG000GQJPZ0",
+    "name": "STRATEGY INC",
+    "ticker": "MSTR",
+    "exchCode": "US",
+    "compositeFIGI": "BBG000GQJPZ0",
+    "securityType": "Common Stock",
+    "marketSector": "Equity",
+    "shareClassFIGI": "BBG001SC7PX1",
+    "securityType2": "Common Stock",
+    "securityDescription": "MSTR"
+   }
+  ]
+ },
+ "MTSI": {
+  "data": [
+   {
+    "figi": "BBG000LJQ3H1",
+    "name": "MACOM TECHNOLOGY SOLUTIONS H",
+    "ticker": "MTSI",
+    "exchCode": "US",
+    "compositeFIGI": "BBG000LJQ3H1",
+    "securityType": "Common Stock",
+    "marketSector": "Equity",
+    "shareClassFIGI": "BBG001T4BB37",
+    "securityType2": "Common Stock",
+    "securityDescription": "MTSI"
+   }
+  ]
+ },
+ "MUX": {
+  "data": [
+   {
+    "figi": "BBG000BW6CN8",
+    "name": "MCEWEN INC",
+    "ticker": "MUX",
+    "exchCode": "US",
+    "compositeFIGI": "BBG000BW6CN8",
+    "securityType": "Common Stock",
+    "marketSector": "Equity",
+    "shareClassFIGI": "BBG001S5X3Z4",
+    "securityType2": "Common Stock",
+    "securityDescription": "MUX"
+   }
+  ]
+ },
+ "NIO": {
+  "data": [
+   {
+    "figi": "BBG00LPXZB46",
+    "name": "NIO INC - ADR",
+    "ticker": "NIO",
+    "exchCode": "US",
+    "compositeFIGI": "BBG00LPXZB46",
+    "securityType": "ADR",
+    "marketSector": "Equity",
+    "shareClassFIGI": "BBG00LPXZBW5",
+    "securityType2": "Depositary Receipt",
+    "securityDescription": "NIO"
+   }
+  ]
+ },
+ "NUVB": {
+  "data": [
+   {
+    "figi": "BBG00VHJ0CC1",
+    "name": "NUVATION BIO INC",
+    "ticker": "NUVB",
+    "exchCode": "US",
+    "compositeFIGI": "BBG00VHJ0CC1",
+    "securityType": "Common Stock",
+    "marketSector": "Equity",
+    "shareClassFIGI": "BBG00VHJ0CD0",
+    "securityType2": "Common Stock",
+    "securityDescription": "NUVB"
+   }
+  ]
+ },
+ "OMCL": {
+  "data": [
+   {
+    "figi": "BBG000BTNGZ4",
+    "name": "OMNICELL INC",
+    "ticker": "OMCL",
+    "exchCode": "US",
+    "compositeFIGI": "BBG000BTNGZ4",
+    "securityType": "Common Stock",
+    "marketSector": "Equity",
+    "shareClassFIGI": "BBG001SF6Z45",
+    "securityType2": "Common Stock",
+    "securityDescription": "OMCL"
+   }
+  ]
+ },
+ "ON": {
+  "data": [
+   {
+    "figi": "BBG000DV7MX4",
+    "name": "ON SEMICONDUCTOR",
+    "ticker": "ON",
+    "exchCode": "US",
+    "compositeFIGI": "BBG000DV7MX4",
+    "securityType": "Common Stock",
+    "marketSector": "Equity",
+    "shareClassFIGI": "BBG001SF7RS6",
+    "securityType2": "Common Stock",
+    "securityDescription": "ON"
+   }
+  ]
+ },
+ "OSIS": {
+  "data": [
+   {
+    "figi": "BBG000BWPR54",
+    "name": "OSI SYSTEMS INC",
+    "ticker": "OSIS",
+    "exchCode": "US",
+    "compositeFIGI": "BBG000BWPR54",
+    "securityType": "Common Stock",
+    "marketSector": "Equity",
+    "shareClassFIGI": "BBG001SB1J54",
+    "securityType2": "Common Stock",
+    "securityDescription": "OSIS"
+   }
+  ]
+ },
+ "PCRX": {
+  "data": [
+   {
+    "figi": "BBG0018FQNS6",
+    "name": "PACIRA BIOSCIENCES INC",
+    "ticker": "PCRX",
+    "exchCode": "US",
+    "compositeFIGI": "BBG0018FQNS6",
+    "securityType": "Common Stock",
+    "marketSector": "Equity",
+    "shareClassFIGI": "BBG001S77N12",
+    "securityType2": "Common Stock",
+    "securityDescription": "PCRX"
+   }
+  ]
+ },
+ "PENG": {
+  "data": [
+   {
+    "figi": "BBG00GLTQCX6",
+    "name": "PENGUIN SOLUTIONS INC",
+    "ticker": "PENG",
+    "exchCode": "US",
+    "compositeFIGI": "BBG00GLTQCX6",
+    "securityType": "Common Stock",
+    "marketSector": "Equity",
+    "shareClassFIGI": "BBG00GLTQDM6",
+    "securityType2": "Common Stock",
+    "securityDescription": "PENG"
+   }
+  ]
+ },
+ "PGY": {
+  "data": [
+   {
+    "figi": "BBG00VJFX5J9",
+    "name": "PAGAYA TECHNOLOGIES LTD -A",
+    "ticker": "PGY",
+    "exchCode": "US",
+    "compositeFIGI": "BBG00VJFX5J9",
+    "securityType": "Common Stock",
+    "marketSector": "Equity",
+    "shareClassFIGI": "BBG00VJFX5K7",
+    "securityType2": "Common Stock",
+    "securityDescription": "PGY"
+   }
+  ]
+ },
+ "PI": {
+  "data": [
+   {
+    "figi": "BBG000GRK2Z7",
+    "name": "IMPINJ INC",
+    "ticker": "PI",
+    "exchCode": "US",
+    "compositeFIGI": "BBG000GRK2Z7",
+    "securityType": "Common Stock",
+    "marketSector": "Equity",
+    "shareClassFIGI": "BBG001T313Q3",
+    "securityType2": "Common Stock",
+    "securityDescription": "PI"
+   }
+  ]
+ },
+ "PRGS": {
+  "data": [
+   {
+    "figi": "BBG000C4QP94",
+    "name": "PROGRESS SOFTWARE CORP",
+    "ticker": "PRGS",
+    "exchCode": "US",
+    "compositeFIGI": "BBG000C4QP94",
+    "securityType": "Common Stock",
+    "marketSector": "Equity",
+    "shareClassFIGI": "BBG001S6MCY5",
+    "securityType2": "Common Stock",
+    "securityDescription": "PRGS"
+   }
+  ]
+ },
+ "PTON": {
+  "data": [
+   {
+    "figi": "BBG00JG0FFZ2",
+    "name": "PELOTON INTERACTIVE INC-A",
+    "ticker": "PTON",
+    "exchCode": "US",
+    "compositeFIGI": "BBG00JG0FFZ2",
+    "securityType": "Common Stock",
+    "marketSector": "Equity",
+    "shareClassFIGI": "BBG00JG0FG08",
+    "securityType2": "Common Stock",
+    "securityDescription": "PTON"
+   }
+  ]
+ },
+ "RBRK": {
+  "data": [
+   {
+    "figi": "BBG008D32605",
+    "name": "RUBRIK INC-A",
+    "ticker": "RBRK",
+    "exchCode": "US",
+    "compositeFIGI": "BBG008D32605",
+    "securityType": "Common Stock",
+    "marketSector": "Equity",
+    "shareClassFIGI": "BBG008D32614",
+    "securityType2": "Common Stock",
+    "securityDescription": "RBRK"
+   }
+  ]
+ },
+ "RIOT": {
+  "data": [
+   {
+    "figi": "BBG000BQ4512",
+    "name": "RIOT PLATFORMS INC",
+    "ticker": "RIOT",
+    "exchCode": "US",
+    "compositeFIGI": "BBG000BQ4512",
+    "securityType": "Common Stock",
+    "marketSector": "Equity",
+    "shareClassFIGI": "BBG001SDW128",
+    "securityType2": "Common Stock",
+    "securityDescription": "RIOT"
+   }
+  ]
+ },
+ "RIVN": {
+  "data": [
+   {
+    "figi": "BBG00741Y1N2",
+    "name": "RIVIAN AUTOMOTIVE INC-A",
+    "ticker": "RIVN",
+    "exchCode": "US",
+    "compositeFIGI": "BBG00741Y1N2",
+    "securityType": "Common Stock",
+    "marketSector": "Equity",
+    "shareClassFIGI": "BBG00741Y1P0",
+    "securityType2": "Common Stock",
+    "securityDescription": "RIVN"
+   }
+  ]
+ },
+ "RPD": {
+  "data": [
+   {
+    "figi": "BBG009DFHWG6",
+    "name": "RAPID7 INC",
+    "ticker": "RPD",
+    "exchCode": "US",
+    "compositeFIGI": "BBG009DFHWG6",
+    "securityType": "Common Stock",
+    "marketSector": "Equity",
+    "shareClassFIGI": "BBG009DFHWH5",
+    "securityType2": "Common Stock",
+    "securityDescription": "RPD"
+   }
+  ]
+ },
+ "RUN": {
+  "data": [
+   {
+    "figi": "BBG0025XVR85",
+    "name": "SUNRUN INC",
+    "ticker": "RUN",
+    "exchCode": "US",
+    "compositeFIGI": "BBG0025XVR85",
+    "securityType": "Common Stock",
+    "marketSector": "Equity",
+    "shareClassFIGI": "BBG0025XVR94",
+    "securityType2": "Common Stock",
+    "securityDescription": "RUN"
+   }
+  ]
+ },
+ "SEDG": {
+  "data": [
+   {
+    "figi": "BBG0084BBZY6",
+    "name": "SOLAREDGE TECHNOLOGIES INC",
+    "ticker": "SEDG",
+    "exchCode": "US",
+    "compositeFIGI": "BBG0084BBZY6",
+    "securityType": "Common Stock",
+    "marketSector": "Equity",
+    "shareClassFIGI": "BBG0084BC0P2",
+    "securityType2": "Common Stock",
+    "securityDescription": "SEDG"
+   }
+  ]
+ },
+ "SEI": {
+  "data": [
+   {
+    "figi": "BBG00G7D6C05",
+    "name": "SOLARIS ENERGY INFRASTRUCTUR",
+    "ticker": "SEI",
+    "exchCode": "US",
+    "compositeFIGI": "BBG00G7D6C05",
+    "securityType": "Common Stock",
+    "marketSector": "Equity",
+    "shareClassFIGI": "BBG00G7D6CQ7",
+    "securityType2": "Common Stock",
+    "securityDescription": "SEI"
+   }
+  ]
+ },
+ "SIRI": {
+  "data": [
+   {
+    "figi": "BBG01KJQM3Y8",
+    "name": "SIRIUS XM HOLDINGS INC",
+    "ticker": "SIRI",
+    "exchCode": "US",
+    "compositeFIGI": "BBG01KJQM3Y8",
+    "securityType": "Common Stock",
+    "marketSector": "Equity",
+    "shareClassFIGI": "BBG01KJQM3Z7",
+    "securityType2": "Common Stock",
+    "securityDescription": "SIRI"
+   }
+  ]
+ },
+ "SITM": {
+  "data": [
+   {
+    "figi": "BBG00QNSY1H7",
+    "name": "SITIME CORP",
+    "ticker": "SITM",
+    "exchCode": "US",
+    "compositeFIGI": "BBG00QNSY1H7",
+    "securityType": "Common Stock",
+    "marketSector": "Equity",
+    "shareClassFIGI": "BBG00QNSY276",
+    "securityType2": "Common Stock",
+    "securityDescription": "SITM"
+   }
+  ]
+ },
+ "SMCI": {
+  "data": [
+   {
+    "figi": "BBG000MYZDJ3",
+    "name": "SUPER MICRO COMPUTER INC",
+    "ticker": "SMCI",
+    "exchCode": "US",
+    "compositeFIGI": "BBG000MYZDJ3",
+    "securityType": "Common Stock",
+    "marketSector": "Equity",
+    "shareClassFIGI": "BBG001SQGH95",
+    "securityType2": "Common Stock",
+    "securityDescription": "SMCI"
+   }
+  ]
+ },
+ "SMTC": {
+  "data": [
+   {
+    "figi": "BBG000DBKR53",
+    "name": "SEMTECH CORP",
+    "ticker": "SMTC",
+    "exchCode": "US",
+    "compositeFIGI": "BBG000DBKR53",
+    "securityType": "Common Stock",
+    "marketSector": "Equity",
+    "shareClassFIGI": "BBG001S7TWW4",
+    "securityType2": "Common Stock",
+    "securityDescription": "SMTC"
+   }
+  ]
+ },
+ "SPB": {
+  "data": [
+   {
+    "figi": "BBG000DS5588",
+    "name": "SPECTRUM BRANDS HOLDINGS INC",
+    "ticker": "SPB",
+    "exchCode": "US",
+    "compositeFIGI": "BBG000DS5588",
+    "securityType": "Common Stock",
+    "marketSector": "Equity",
+    "shareClassFIGI": "BBG001S63S71",
+    "securityType2": "Common Stock",
+    "securityDescription": "SPB"
+   }
+  ]
+ },
+ "SPHR": {
+  "data": [
+   {
+    "figi": "BBG00L9HLWV8",
+    "name": "SPHERE ENTERTAINMENT CO",
+    "ticker": "SPHR",
+    "exchCode": "US",
+    "compositeFIGI": "BBG00L9HLWV8",
+    "securityType": "Common Stock",
+    "marketSector": "Equity",
+    "shareClassFIGI": "BBG00L9HLWW7",
+    "securityType2": "Common Stock",
+    "securityDescription": "SPHR"
+   }
+  ]
+ },
+ "SYNA": {
+  "data": [
+   {
+    "figi": "BBG000BQV1S2",
+    "name": "SYNAPTICS INC",
+    "ticker": "SYNA",
+    "exchCode": "US",
+    "compositeFIGI": "BBG000BQV1S2",
+    "securityType": "Common Stock",
+    "marketSector": "Equity",
+    "shareClassFIGI": "BBG001SCDXM9",
+    "securityType2": "Common Stock",
+    "securityDescription": "SYNA"
+   }
+  ]
+ },
+ "TE": {
+  "data": [
+   {
+    "figi": "BBG01KR6BS70",
+    "name": "T1 ENERGY INC",
+    "ticker": "TE",
+    "exchCode": "US",
+    "compositeFIGI": "BBG01KR6BS70",
+    "securityType": "Common Stock",
+    "marketSector": "Equity",
+    "shareClassFIGI": "BBG01KR6BS89",
+    "securityType2": "Common Stock",
+    "securityDescription": "TE"
+   }
+  ]
+ },
+ "TNDM": {
+  "data": [
+   {
+    "figi": "BBG0019V9M65",
+    "name": "TANDEM DIABETES CARE INC",
+    "ticker": "TNDM",
+    "exchCode": "US",
+    "compositeFIGI": "BBG0019V9M65",
+    "securityType": "Common Stock",
+    "marketSector": "Equity",
+    "shareClassFIGI": "BBG001TG5QC4",
+    "securityType2": "Common Stock",
+    "securityDescription": "TNDM"
+   }
+  ]
+ },
+ "TVTX": {
+  "data": [
+   {
+    "figi": "BBG000P9D6W9",
+    "name": "TRAVERE THERAPEUTICS INC",
+    "ticker": "TVTX",
+    "exchCode": "US",
+    "compositeFIGI": "BBG000P9D6W9",
+    "securityType": "Common Stock",
+    "marketSector": "Equity",
+    "shareClassFIGI": "BBG001SL72C5",
+    "securityType2": "Common Stock",
+    "securityDescription": "TVTX"
+   }
+  ]
+ },
+ "U": {
+  "data": [
+   {
+    "figi": "BBG0056JW5G6",
+    "name": "UNITY SOFTWARE INC",
+    "ticker": "U",
+    "exchCode": "US",
+    "compositeFIGI": "BBG0056JW5G6",
+    "securityType": "Common Stock",
+    "marketSector": "Equity",
+    "shareClassFIGI": "BBG0056JW5H5",
+    "securityType2": "Common Stock",
+    "securityDescription": "U"
+   }
+  ]
+ },
+ "UPST": {
+  "data": [
+   {
+    "figi": "BBG00PKCBY53",
+    "name": "UPSTART HOLDINGS INC",
+    "ticker": "UPST",
+    "exchCode": "US",
+    "compositeFIGI": "BBG00PKCBY53",
+    "securityType": "Common Stock",
+    "marketSector": "Equity",
+    "shareClassFIGI": "BBG00PKCBY62",
+    "securityType2": "Common Stock",
+    "securityDescription": "UPST"
+   }
+  ]
+ },
+ "VECO": {
+  "data": [
+   {
+    "figi": "BBG000BDCB28",
+    "name": "VEECO INSTRUMENTS INC",
+    "ticker": "VECO",
+    "exchCode": "US",
+    "compositeFIGI": "BBG000BDCB28",
+    "securityType": "Common Stock",
+    "marketSector": "Equity",
+    "shareClassFIGI": "BBG001S5X6T4",
+    "securityType2": "Common Stock",
+    "securityDescription": "VECO"
+   }
+  ]
+ },
+ "VNET": {
+  "data": [
+   {
+    "figi": "BBG001M32Y18",
+    "name": "VNET GROUP INC-ADR",
+    "ticker": "VNET",
+    "exchCode": "US",
+    "compositeFIGI": "BBG001M32Y18",
+    "securityType": "ADR",
+    "marketSector": "Equity",
+    "shareClassFIGI": "BBG001V0ZQH8",
+    "securityType2": "Depositary Receipt",
+    "securityDescription": "VNET"
+   }
+  ]
+ },
+ "VSH": {
+  "data": [
+   {
+    "figi": "BBG000BWKB81",
+    "name": "VISHAY INTERTECHNOLOGY INC",
+    "ticker": "VSH",
+    "exchCode": "US",
+    "compositeFIGI": "BBG000BWKB81",
+    "securityType": "Common Stock",
+    "marketSector": "Equity",
+    "shareClassFIGI": "BBG001S5XB04",
+    "securityType2": "Common Stock",
+    "securityDescription": "VSH"
+   }
+  ]
+ },
+ "W": {
+  "data": [
+   {
+    "figi": "BBG001B17MV2",
+    "name": "WAYFAIR INC- CLASS A",
+    "ticker": "W",
+    "exchCode": "US",
+    "compositeFIGI": "BBG001B17MV2",
+    "securityType": "Common Stock",
+    "marketSector": "Equity",
+    "shareClassFIGI": "BBG001THKQ26",
+    "securityType2": "Common Stock",
+    "securityDescription": "W"
+   }
+  ]
+ },
+ "WGO": {
+  "data": [
+   {
+    "figi": "BBG000BWS3F3",
+    "name": "WINNEBAGO INDUSTRIES",
+    "ticker": "WGO",
+    "exchCode": "US",
+    "compositeFIGI": "BBG000BWS3F3",
+    "securityType": "Common Stock",
+    "marketSector": "Equity",
+    "shareClassFIGI": "BBG001S5XFG8",
+    "securityType2": "Common Stock",
+    "securityDescription": "WGO"
+   }
+  ]
+ },
+ "WK": {
+  "data": [
+   {
+    "figi": "BBG007BVZ8H9",
+    "name": "WORKIVA INC",
+    "ticker": "WK",
+    "exchCode": "US",
+    "compositeFIGI": "BBG007BVZ8H9",
+    "securityType": "Common Stock",
+    "marketSector": "Equity",
+    "shareClassFIGI": "BBG007BVZ8J7",
+    "securityType2": "Common Stock",
+    "securityDescription": "WK"
+   }
+  ]
+ },
+ "XMTR": {
+  "data": [
+   {
+    "figi": "BBG00BDCCV93",
+    "name": "XOMETRY INC-A",
+    "ticker": "XMTR",
+    "exchCode": "US",
+    "compositeFIGI": "BBG00BDCCV93",
+    "securityType": "Common Stock",
+    "marketSector": "Equity",
+    "shareClassFIGI": "BBG00BDCCVB0",
+    "securityType2": "Common Stock",
+    "securityDescription": "XMTR"
+   }
+  ]
+ },
+ "ZBIO": {
+  "data": [
+   {
+    "figi": "BBG01J1MG9D6",
+    "name": "ZENAS BIOPHARMA INC",
+    "ticker": "ZBIO",
+    "exchCode": "US",
+    "compositeFIGI": "BBG01J1MG9D6",
+    "securityType": "Common Stock",
+    "marketSector": "Equity",
+    "shareClassFIGI": "BBG01J1MG9F4",
+    "securityType2": "Common Stock",
+    "securityDescription": "ZBIO"
+   }
+  ]
+ },
+ "IPFX": {
+  "data": [
+   {
+    "figi": "BBG01Z8CLWM8",
+    "name": "INFLECTION POINT ACQUI CL-A",
+    "ticker": "IPFX",
+    "exchCode": "US",
+    "compositeFIGI": "BBG01Z8CLWM8",
+    "securityType": "Common Stock",
+    "marketSector": "Equity",
+    "shareClassFIGI": "BBG01Z8CLXL7",
+    "securityType2": "Common Stock",
+    "securityDescription": "IPFX"
+   }
+  ]
+ },
+ "TDAC": {
+  "data": [
+   {
+    "figi": "BBG01S83YQK5",
+    "name": "TRANSLATIONAL DEVELOPMENT AC",
+    "ticker": "TDAC",
+    "exchCode": "US",
+    "compositeFIGI": "BBG01S83YQK5",
+    "securityType": "Common Stock",
+    "marketSector": "Equity",
+    "shareClassFIGI": "BBG01S83YTY4",
+    "securityType2": "Common Stock",
+    "securityDescription": "TDAC"
+   }
+  ]
+ },
+ "KDK": {
+  "data": [
+   {
+    "figi": "BBG01GWQM2H3",
+    "name": "KODIAK AI INC",
+    "ticker": "KDK",
+    "exchCode": "US",
+    "compositeFIGI": "BBG01GWQM2H3",
+    "securityType": "Common Stock",
+    "marketSector": "Equity",
+    "shareClassFIGI": "BBG01GWQM3D5",
+    "securityType2": "Common Stock",
+    "securityDescription": "KDK"
+   }
+  ]
+ },
+ "INFQ": {
+  "data": [
+   {
+    "figi": "BBG01TR9ZJ24",
+    "name": "INFLEQTION INC",
+    "ticker": "INFQ",
+    "exchCode": "US",
+    "compositeFIGI": "BBG01TR9ZJ24",
+    "securityType": "Common Stock",
+    "marketSector": "Equity",
+    "shareClassFIGI": "BBG01TR9ZK30",
+    "securityType2": "Common Stock",
+    "securityDescription": "INFQ"
+   }
+  ]
+ },
+ "BACC": {
+  "data": [
+   {
+    "figi": "BBG01V27NZW4",
+    "name": "BLUE ACQUISITION CORP-CL A",
+    "ticker": "BACC",
+    "exchCode": "US",
+    "compositeFIGI": "BBG01V27NZW4",
+    "securityType": "Common Stock",
+    "marketSector": "Equity",
+    "shareClassFIGI": "BBG01V27P102",
+    "securityType2": "Common Stock",
+    "securityDescription": "BACC"
+   }
+  ]
+ },
+ "ATII": {
+  "data": [
+   {
+    "figi": "BBG01S7RK3J1",
+    "name": "ARCHIMEDES TECH SPAC PARTNER",
+    "ticker": "ATII",
+    "exchCode": "US",
+    "compositeFIGI": "BBG01S7RK3J1",
+    "securityType": "Common Stock",
+    "marketSector": "Equity",
+    "shareClassFIGI": "BBG01S7RK4F3",
+    "securityType2": "Common Stock",
+    "securityDescription": "ATII"
+   }
+  ]
+ },
+ "SVAQ": {
+  "data": [
+   {
+    "figi": "BBG01XFM5M89",
+    "name": "SILICON VALLEY ACQUISIT-CL A",
+    "ticker": "SVAQ",
+    "exchCode": "US",
+    "compositeFIGI": "BBG01XFM5M89",
+    "securityType": "Common Stock",
+    "marketSector": "Equity",
+    "shareClassFIGI": "BBG01XFM5QG1",
+    "securityType2": "Common Stock",
+    "securityDescription": "SVAQ"
+   }
+  ]
+ },
+ "NUCL": {
+  "data": [
+   {
+    "figi": "BBG020LPCLG1",
+    "name": "EAGLE NUCLEAR ENERGY CORP",
+    "ticker": "NUCL",
+    "exchCode": "US",
+    "compositeFIGI": "BBG020LPCLG1",
+    "securityType": "Common Stock",
+    "marketSector": "Equity",
+    "shareClassFIGI": "BBG020LPCMK4",
+    "securityType2": "Common Stock",
+    "securityDescription": "NUCL"
+   }
+  ]
+ },
+ "TMS": {
+  "data": [
+   {
+    "figi": "BBG01SRKGPB8",
+    "name": "TEAMSHARES INC",
+    "ticker": "TMS",
+    "exchCode": "US",
+    "compositeFIGI": "BBG01SRKGPB8",
+    "securityType": "Common Stock",
+    "marketSector": "Equity",
+    "shareClassFIGI": "BBG01SRKGQ99",
+    "securityType2": "Common Stock",
+    "securityDescription": "TMS"
+   }
+  ]
+ },
+ "FAC": {
+  "data": [
+   {
+    "figi": "BBG01SQC0LF9",
+    "name": "FACTORIAL ENERGY INC",
+    "ticker": "FAC",
+    "exchCode": "US",
+    "compositeFIGI": "BBG01SQC0LF9",
+    "securityType": "Common Stock",
+    "marketSector": "Equity",
+    "shareClassFIGI": "BBG01SQC0LG8",
+    "securityType2": "Common Stock",
+    "securityDescription": "FAC"
+   }
+  ]
+ },
+ "PMTR": {
+  "data": [
+   {
+    "figi": "BBG01VL9N467",
+    "name": "PERIMETER ACQUIS CORP I CL A",
+    "ticker": "PMTR",
+    "exchCode": "US",
+    "compositeFIGI": "BBG01VL9N467",
+    "securityType": "Common Stock",
+    "marketSector": "Equity",
+    "shareClassFIGI": "BBG01VL9N582",
+    "securityType2": "Common Stock",
+    "securityDescription": "PMTR"
+   }
+  ]
+ },
+ "TLNC": {
+  "data": [
+   {
+    "figi": "BBG01X2MS870",
+    "name": "TALON CAPITAL CORP-CL A",
+    "ticker": "TLNC",
+    "exchCode": "US",
+    "compositeFIGI": "BBG01X2MS870",
+    "securityType": "Common Stock",
+    "marketSector": "Equity",
+    "shareClassFIGI": "BBG01X2MS950",
+    "securityType2": "Common Stock",
+    "securityDescription": "TLNC"
+   }
+  ]
+ },
+ "CUB": {
+  "data": [
+   {
+    "figi": "BBG01P63K766",
+    "name": "LIONHEART HOLDINGS - CL A",
+    "ticker": "CUB",
+    "exchCode": "US",
+    "compositeFIGI": "BBG01P63K766",
+    "securityType": "Common Stock",
+    "marketSector": "Equity",
+    "shareClassFIGI": "BBG01P63K846",
+    "securityType2": "Common Stock",
+    "securityDescription": "CUB"
+   }
+  ]
+ },
+ "IMSR": {
+  "data": [
+   {
+    "figi": "BBG01Q79WXF0",
+    "name": "TERRESTRIAL ENERGY INC",
+    "ticker": "IMSR",
+    "exchCode": "US",
+    "compositeFIGI": "BBG01Q79WXF0",
+    "securityType": "Common Stock",
+    "marketSector": "Equity",
+    "shareClassFIGI": "BBG01Q79WYC1",
+    "securityType2": "Common Stock",
+    "securityDescription": "IMSR"
+   }
+  ]
+ },
+ "GFUZ": {
+  "data": [
+   {
+    "figi": "BBG01WK0KYQ0",
+    "name": "GENERAL FUSION GROUP LTD",
+    "ticker": "GFUZ",
+    "exchCode": "US",
+    "compositeFIGI": "BBG01WK0KYQ0",
+    "securityType": "Common Stock",
+    "marketSector": "Equity",
+    "shareClassFIGI": "BBG01WK0KZW0",
+    "securityType2": "Common Stock",
+    "securityDescription": "GFUZ"
+   }
+  ]
+ },
+ "EGHA": {
+  "data": [
+   {
+    "figi": "BBG01TLHZ9Y9",
+    "name": "EGH ACQUISITION CO-A",
+    "ticker": "EGHA",
+    "exchCode": "US",
+    "compositeFIGI": "BBG01TLHZ9Y9",
+    "securityType": "Common Stock",
+    "marketSector": "Equity",
+    "shareClassFIGI": "BBG01TLHZD25",
+    "securityType2": "Common Stock",
+    "securityDescription": "EGHA"
+   }
+  ]
+ },
+ "XRPN": {
+  "data": [
+   {
+    "figi": "BBG01T2RPZN3",
+    "name": "ARMADA ACQUISITION -CLASS A",
+    "ticker": "XRPN",
+    "exchCode": "US",
+    "compositeFIGI": "BBG01T2RPZN3",
+    "securityType": "Common Stock",
+    "marketSector": "Equity",
+    "shareClassFIGI": "BBG01T2RQ0H6",
+    "securityType2": "Common Stock",
+    "securityDescription": "XRPN"
+   }
+  ]
+ },
+ "TACO": {
+  "data": [
+   {
+    "figi": "BBG01TG07Q48",
+    "name": "BERTO ACQUISITION CORP",
+    "ticker": "TACO",
+    "exchCode": "US",
+    "compositeFIGI": "BBG01TG07Q48",
+    "securityType": "Common Stock",
+    "marketSector": "Equity",
+    "shareClassFIGI": "BBG01TG07R28",
+    "securityType2": "Common Stock",
+    "securityDescription": "TACO"
+   }
+  ]
+ },
+ "SPKL": {
+  "data": [
+   {
+    "figi": "BBG01HCZC7Y4",
+    "name": "SPARK I ACQUISITION CORP",
+    "ticker": "SPKL",
+    "exchCode": "US",
+    "compositeFIGI": "BBG01HCZC7Y4",
+    "securityType": "Common Stock",
+    "marketSector": "Equity",
+    "shareClassFIGI": "BBG01HCZC8S9",
+    "securityType2": "Common Stock",
+    "securityDescription": "SPKL"
+   }
+  ]
+ },
+ "SZZL": {
+  "data": [
+   {
+    "figi": "BBG01SWJJTP9",
+    "name": "SIZZLE ACQUISITION CORP-CL A",
+    "ticker": "SZZL",
+    "exchCode": "US",
+    "compositeFIGI": "BBG01SWJJTP9",
+    "securityType": "Common Stock",
+    "marketSector": "Equity",
+    "shareClassFIGI": "BBG01SWJJVR2",
+    "securityType2": "Common Stock",
+    "securityDescription": "SZZL"
+   }
+  ]
+ },
+ "SDHI": {
+  "data": [
+   {
+    "figi": "BBG00ZSK0D08",
+    "name": "SIDDHI ACQUISITION CORP-A",
+    "ticker": "SDHI",
+    "exchCode": "US",
+    "compositeFIGI": "BBG00ZSK0D08",
+    "securityType": "Common Stock",
+    "marketSector": "Equity",
+    "shareClassFIGI": "BBG00ZSK0D17",
+    "securityType2": "Common Stock",
+    "securityDescription": "SDHI"
+   }
+  ]
+ },
+ "SPEG": {
+  "data": [
+   {
+    "figi": "BBG01RXKMCM3",
+    "name": "SILVER PEGASUS ACQUISITION-A",
+    "ticker": "SPEG",
+    "exchCode": "US",
+    "compositeFIGI": "BBG01RXKMCM3",
+    "securityType": "Common Stock",
+    "marketSector": "Equity",
+    "shareClassFIGI": "BBG01RXKMDG8",
+    "securityType2": "Common Stock",
+    "securityDescription": "SPEG"
+   }
+  ]
+ },
+ "IPXG": {
+  "data": [
+   {
+    "figi": "BBG01ZRL74X3",
+    "name": "INFLECTION POINT ACQUISITION",
+    "ticker": "IPXG",
+    "exchCode": "US",
+    "compositeFIGI": "BBG01ZRL74X3",
+    "securityType": "Common Stock",
+    "marketSector": "Equity",
+    "shareClassFIGI": "BBG01ZRL75Z8",
+    "securityType2": "Common Stock",
+    "securityDescription": "IPXG"
+   }
+  ]
+ },
+ "TACH": {
+  "data": [
+   {
+    "figi": "BBG01SSLTR63",
+    "name": "TITAN ACQUISITION CORP-CL A",
+    "ticker": "TACH",
+    "exchCode": "US",
+    "compositeFIGI": "BBG01SSLTR63",
+    "securityType": "Common Stock",
+    "marketSector": "Equity",
+    "shareClassFIGI": "BBG01SSLTTL2",
+    "securityType2": "Common Stock",
+    "securityDescription": "TACH"
+   }
+  ]
+ },
+ "EVOX": {
+  "data": [
+   {
+    "figi": "BBG01WGGG506",
+    "name": "EVOLUTION GLOBAL ACQUIS-CL A",
+    "ticker": "EVOX",
+    "exchCode": "US",
+    "compositeFIGI": "BBG01WGGG506",
+    "securityType": "Common Stock",
+    "marketSector": "Equity",
+    "shareClassFIGI": "BBG01WGGG604",
+    "securityType2": "Common Stock",
+    "securityDescription": "EVOX"
+   }
+  ]
+ },
+ "TVA": {
+  "data": [
+   {
+    "figi": "BBG01S7MDRL4",
+    "name": "TEXAS VENTURES ACQUISITION-A",
+    "ticker": "TVA",
+    "exchCode": "US",
+    "compositeFIGI": "BBG01S7MDRL4",
+    "securityType": "Common Stock",
+    "marketSector": "Equity",
+    "shareClassFIGI": "BBG01S7MDSY8",
+    "securityType2": "Common Stock",
+    "securityDescription": "TVA"
+   }
+  ]
+ },
+ "SAC": {
+  "data": [
+   {
+    "figi": "BBG01YVBD5H1",
+    "name": "SAFEGUARD ACQUISITION C-CL A",
+    "ticker": "SAC",
+    "exchCode": "US",
+    "compositeFIGI": "BBG01YVBD5H1",
+    "securityType": "Common Stock",
+    "marketSector": "Equity",
+    "shareClassFIGI": "BBG01YVBD6D3",
+    "securityType2": "Common Stock",
+    "securityDescription": "SAC"
+   }
+  ]
+ },
+ "CRAN": {
+  "data": [
+   {
+    "figi": "BBG01Z0WPCH8",
+    "name": "CRANE HARBOR ACQUISITIO-CL A",
+    "ticker": "CRAN",
+    "exchCode": "US",
+    "compositeFIGI": "BBG01Z0WPCH8",
+    "securityType": "Common Stock",
+    "marketSector": "Equity",
+    "shareClassFIGI": "BBG01Z0WPDK2",
+    "securityType2": "Common Stock",
+    "securityDescription": "CRAN"
+   }
+  ]
+ },
+ "GSRF": {
+  "data": [
+   {
+    "figi": "BBG01WH8MM63",
+    "name": "GSR IV ACQUISITION CORP-CL A",
+    "ticker": "GSRF",
+    "exchCode": "US",
+    "compositeFIGI": "BBG01WH8MM63",
+    "securityType": "Common Stock",
+    "marketSector": "Equity",
+    "shareClassFIGI": "BBG01WH8MNL4",
+    "securityType2": "Common Stock",
+    "securityDescription": "GSRF"
+   }
+  ]
+ },
+ "MEVO": {
+  "data": [
+   {
+    "figi": "BBG01ZY389B7",
+    "name": "M EVO GLOBAL ACQUISITIO-CL A",
+    "ticker": "MEVO",
+    "exchCode": "US",
+    "compositeFIGI": "BBG01ZY389B7",
+    "securityType": "Common Stock",
+    "marketSector": "Equity",
+    "shareClassFIGI": "BBG01ZY38C39",
+    "securityType2": "Common Stock",
+    "securityDescription": "MEVO"
+   }
+  ]
+ },
+ "PONO": {
+  "data": [
+   {
+    "figi": "BBG01ZZWN6L0",
+    "name": "PONO CAPITAL FOUR INC-A",
+    "ticker": "PONO",
+    "exchCode": "US",
+    "compositeFIGI": "BBG01ZZWN6L0",
+    "securityType": "Common Stock",
+    "marketSector": "Equity",
+    "shareClassFIGI": "BBG01ZZWN7H3",
+    "securityType2": "Common Stock",
+    "securityDescription": "PONO"
+   }
+  ]
+ },
+ "CCXI": {
+  "data": [
+   {
+    "figi": "BBG01Z2SGTW1",
+    "name": "CHURCHILL CAPITAL CORP-CL A",
+    "ticker": "CCXI",
+    "exchCode": "US",
+    "compositeFIGI": "BBG01Z2SGTW1",
+    "securityType": "Common Stock",
+    "marketSector": "Equity",
+    "shareClassFIGI": "BBG01Z2SGVT0",
+    "securityType2": "Common Stock",
+    "securityDescription": "CCXI"
+   }
+  ]
+ },
+ "NWAX": {
+  "data": [
+   {
+    "figi": "BBG01YVBDW37",
+    "name": "NEW AMERICA ACQUISITION-CL A",
+    "ticker": "NWAX",
+    "exchCode": "US",
+    "compositeFIGI": "BBG01YVBDW37",
+    "securityType": "Common Stock",
+    "marketSector": "Equity",
+    "shareClassFIGI": "BBG01YVBDX17",
+    "securityType2": "Common Stock",
+    "securityDescription": "NWAX"
+   }
+  ]
+ },
+ "MTAL": {
+  "data": [
+   {
+    "figi": "BBG01ZZXC9Y0",
+    "name": "METALS ACQUISITION II-CL A",
+    "ticker": "MTAL",
+    "exchCode": "US",
+    "compositeFIGI": "BBG01ZZXC9Y0",
+    "securityType": "Common Stock",
+    "marketSector": "Equity",
+    "shareClassFIGI": "BBG01ZZXCBV8",
+    "securityType2": "Common Stock",
+    "securityDescription": "MTAL"
+   }
+  ]
+ },
+ "AXIN": {
+  "data": [
+   {
+    "figi": "BBG01WGCLSV5",
+    "name": "AXIOM INTELLIGENCE-CL A",
+    "ticker": "AXIN",
+    "exchCode": "US",
+    "compositeFIGI": "BBG01WGCLSV5",
+    "securityType": "Common Stock",
+    "marketSector": "Equity",
+    "shareClassFIGI": "BBG01WGCLTR8",
+    "securityType2": "Common Stock",
+    "securityDescription": "AXIN"
+   }
+  ]
+ },
+ "RANG": {
+  "data": [
+   {
+    "figi": "BBG01RQ79CR0",
+    "name": "RANGE CAPITAL ACQUISITION CO",
+    "ticker": "RANG",
+    "exchCode": "US",
+    "compositeFIGI": "BBG01RQ79CR0",
+    "securityType": "Common Stock",
+    "marketSector": "Equity",
+    "shareClassFIGI": "BBG01RQ7NZW7",
+    "securityType2": "Common Stock",
+    "securityDescription": "RANG"
+   }
+  ]
+ },
+ "TRGS": {
+  "data": [
+   {
+    "figi": "BBG0204WJR11",
+    "name": "TRG LATIN AMERICA CL A",
+    "ticker": "TRGS",
+    "exchCode": "US",
+    "compositeFIGI": "BBG0204WJR11",
+    "securityType": "Common Stock",
+    "marketSector": "Equity",
+    "shareClassFIGI": "BBG0204WJRY5",
+    "securityType2": "Common Stock",
+    "securityDescription": "TRGS"
+   }
+  ]
+ },
+ "KCHV": {
+  "data": [
+   {
+    "figi": "BBG01W7CXGY5",
+    "name": "KOCHAV DEFENSE ACQUISITION-A",
+    "ticker": "KCHV",
+    "exchCode": "US",
+    "compositeFIGI": "BBG01W7CXGY5",
+    "securityType": "Common Stock",
+    "marketSector": "Equity",
+    "shareClassFIGI": "BBG01W7CXHV6",
+    "securityType2": "Common Stock",
+    "securityDescription": "KCHV"
+   }
+  ]
+ },
+ "IACQ": {
+  "data": [
+   {
+    "figi": "BBG021KYCP63",
+    "name": "IRENIC ACQUISITION CORP CL-A",
+    "ticker": "IACQ",
+    "exchCode": "US",
+    "compositeFIGI": "BBG021KYCP63",
+    "securityType": "Common Stock",
+    "marketSector": "Equity",
+    "shareClassFIGI": "BBG021KYCP72",
+    "securityType2": "Common Stock",
+    "securityDescription": "IACQ"
+   }
+  ]
+ },
+ "TONT": {
+  "data": [
+   {
+    "figi": "BBG01NP47GW4",
+    "name": "GRAF GLOBAL CORP-CL A",
+    "ticker": "TONT",
+    "exchCode": "US",
+    "compositeFIGI": "BBG01NP47GW4",
+    "securityType": "Common Stock",
+    "marketSector": "Equity",
+    "shareClassFIGI": "BBG01NP47HQ9",
+    "securityType2": "Common Stock",
+    "securityDescription": "TONT"
+   }
+  ]
+ },
+ "MKLY": {
+  "data": [
+   {
+    "figi": "BBG01WN0YF10",
+    "name": "MCKINLEY ACQUISITION CO-CL A",
+    "ticker": "MKLY",
+    "exchCode": "US",
+    "compositeFIGI": "BBG01WN0YF10",
+    "securityType": "Common Stock",
+    "marketSector": "Equity",
+    "shareClassFIGI": "BBG01WN0YG72",
+    "securityType2": "Common Stock",
+    "securityDescription": "MKLY"
+   }
+  ]
+ },
+ "TVAI": {
+  "data": [
+   {
+    "figi": "BBG01SWD34H3",
+    "name": "THAYER VENTURES ACQUIS CL A",
+    "ticker": "TVAI",
+    "exchCode": "US",
+    "compositeFIGI": "BBG01SWD34H3",
+    "securityType": "Common Stock",
+    "marketSector": "Equity",
+    "shareClassFIGI": "BBG01SWD35B6",
+    "securityType2": "Common Stock",
+    "securityDescription": "TVAI"
+   }
+  ]
+ },
+ "SCII": {
+  "data": [
+   {
+    "figi": "BBG01Y0CV5B9",
+    "name": "SC II ACQUISITION CORP-CL A",
+    "ticker": "SCII",
+    "exchCode": "US",
+    "compositeFIGI": "BBG01Y0CV5B9",
+    "securityType": "Common Stock",
+    "marketSector": "Equity",
+    "shareClassFIGI": "BBG01Y0CV6Z1",
+    "securityType2": "Common Stock",
+    "securityDescription": "SCII"
+   }
+  ]
+ },
+ "SORN": {
+  "data": [
+   {
+    "figi": "BBG01XT0WVW5",
+    "name": "SOREN ACQUISITION CORP-CL A",
+    "ticker": "SORN",
+    "exchCode": "US",
+    "compositeFIGI": "BBG01XT0WVW5",
+    "securityType": "Common Stock",
+    "marketSector": "Equity",
+    "shareClassFIGI": "BBG01XT0WVX4",
+    "securityType2": "Common Stock",
+    "securityDescription": "SORN"
+   }
+  ]
+ },
+ "KEYY": {
+  "data": [
+   {
+    "figi": "BBG0222XY233",
+    "name": "KEYSTONE ACQUISITION CO-CL A",
+    "ticker": "KEYY",
+    "exchCode": "US",
+    "compositeFIGI": "BBG0222XY233",
+    "securityType": "Common Stock",
+    "marketSector": "Equity",
+    "shareClassFIGI": "BBG0222XY2R7",
+    "securityType2": "Common Stock",
+    "securityDescription": "KEYY"
+   }
+  ]
+ },
+ "ALIS": {
+  "data": [
+   {
+    "figi": "BBG01Y3BR097",
+    "name": "CALISA ACQUISITION CORP",
+    "ticker": "ALIS",
+    "exchCode": "US",
+    "compositeFIGI": "BBG01Y3BR097",
+    "securityType": "Common Stock",
+    "marketSector": "Equity",
+    "shareClassFIGI": "BBG01Y3BR168",
+    "securityType2": "Common Stock",
+    "securityDescription": "ALIS"
+   }
+  ]
+ },
+ "PGAC": {
+  "data": [
+   {
+    "figi": "BBG01RZ1SJQ8",
+    "name": "PANTAGES CAPITAL ACQUISITION",
+    "ticker": "PGAC",
+    "exchCode": "US",
+    "compositeFIGI": "BBG01RZ1SJQ8",
+    "securityType": "Common Stock",
+    "marketSector": "Equity",
+    "shareClassFIGI": "BBG01RZ1SL92",
+    "securityType2": "Common Stock",
+    "securityDescription": "PGAC"
+   }
+  ]
+ },
+ "GTEN": {
+  "data": [
+   {
+    "figi": "BBG0146ZJ4D3",
+    "name": "GORES HOLDINGS X INC-CL A",
+    "ticker": "GTEN",
+    "exchCode": "US",
+    "compositeFIGI": "BBG0146ZJ4D3",
+    "securityType": "Common Stock",
+    "marketSector": "Equity",
+    "shareClassFIGI": "BBG0146ZJ577",
+    "securityType2": "Common Stock",
+    "securityDescription": "GTEN"
+   }
+  ]
+ },
+ "RNGT": {
+  "data": [
+   {
+    "figi": "BBG01X4YPPL1",
+    "name": "RANGE CAPITAL ACQUISIT CL A",
+    "ticker": "RNGT",
+    "exchCode": "US",
+    "compositeFIGI": "BBG01X4YPPL1",
+    "securityType": "Common Stock",
+    "marketSector": "Equity",
+    "shareClassFIGI": "BBG01X4YPQK0",
+    "securityType2": "Common Stock",
+    "securityDescription": "RNGT"
+   }
+  ]
+ },
+ "BEAG": {
+  "data": [
+   {
+    "figi": "BBG01QJQGZ62",
+    "name": "BOLD EAGLE ACQUISITION COR-A",
+    "ticker": "BEAG",
+    "exchCode": "US",
+    "compositeFIGI": "BBG01QJQGZ62",
+    "securityType": "Common Stock",
+    "marketSector": "Equity",
+    "shareClassFIGI": "BBG01QJQH013",
+    "securityType2": "Common Stock",
+    "securityDescription": "BEAG"
+   }
+  ]
+ },
+ "NB": {
+  "data": [
+   {
+    "figi": "BBG000JXM902",
+    "name": "NIOCORP DEVELOPMENTS LTD",
+    "ticker": "NB",
+    "exchCode": "US",
+    "compositeFIGI": "BBG000JXM902",
+    "securityType": "Common Stock",
+    "marketSector": "Equity",
+    "shareClassFIGI": "BBG001SF8DJ6",
+    "securityType2": "Common Stock",
+    "securityDescription": "NB"
+   }
+  ]
+ },
+ "OTGA": {
+  "data": [
+   {
+    "figi": "BBG01WXLYL47",
+    "name": "OTG ACQUISITION CORP I-CL A",
+    "ticker": "OTGA",
+    "exchCode": "US",
+    "compositeFIGI": "BBG01WXLYL47",
+    "securityType": "Common Stock",
+    "marketSector": "Equity",
+    "shareClassFIGI": "BBG01WXLYM36",
+    "securityType2": "Common Stock",
+    "securityDescription": "OTGA"
+   }
+  ]
+ },
+ "SOUL": {
+  "data": [
+   {
+    "figi": "BBG01T4P0H89",
+    "name": "SOULPOWER ACQUISITION CO-A",
+    "ticker": "SOUL",
+    "exchCode": "US",
+    "compositeFIGI": "BBG01T4P0H89",
+    "securityType": "Common Stock",
+    "marketSector": "Equity",
+    "shareClassFIGI": "BBG01T4P0J49",
+    "securityType2": "Common Stock",
+    "securityDescription": "SOUL"
+   }
+  ]
+ },
+ "RDAG": {
+  "data": [
+   {
+    "figi": "BBG01SNGSNL2",
+    "name": "REPUBLIC DIGITAL ACQUIS-CL A",
+    "ticker": "RDAG",
+    "exchCode": "US",
+    "compositeFIGI": "BBG01SNGSNL2",
+    "securityType": "Common Stock",
+    "marketSector": "Equity",
+    "shareClassFIGI": "BBG01SNGSPF4",
+    "securityType2": "Common Stock",
+    "securityDescription": "RDAG"
+   }
+  ]
+ },
+ "PAII": {
+  "data": [
+   {
+    "figi": "BBG01VVFL428",
+    "name": "PYROPHYTE ACQUISITION CORP-A",
+    "ticker": "PAII",
+    "exchCode": "US",
+    "compositeFIGI": "BBG01VVFL428",
+    "securityType": "Common Stock",
+    "marketSector": "Equity",
+    "shareClassFIGI": "BBG01VVFL4Y3",
+    "securityType2": "Common Stock",
+    "securityDescription": "PAII"
+   }
+  ]
+ },
+ "VACI": {
+  "data": [
+   {
+    "figi": "BBG01WNQ0JL0",
+    "name": "VIKING ACQUISITION CORP - A",
+    "ticker": "VACI",
+    "exchCode": "US",
+    "compositeFIGI": "BBG01WNQ0JL0",
+    "securityType": "Common Stock",
+    "marketSector": "Equity",
+    "shareClassFIGI": "BBG01WNQ0KH2",
+    "securityType2": "Common Stock",
+    "securityDescription": "VACI"
+   }
+  ]
+ },
+ "HCMA": {
+  "data": [
+   {
+    "figi": "BBG01VFVN3K1",
+    "name": "HCM III ACQUISITION COR-CL A",
+    "ticker": "HCMA",
+    "exchCode": "US",
+    "compositeFIGI": "BBG01VFVN3K1",
+    "securityType": "Common Stock",
+    "marketSector": "Equity",
+    "shareClassFIGI": "BBG01VFVN4H3",
+    "securityType2": "Common Stock",
+    "securityDescription": "HCMA"
+   }
+  ]
+ },
+ "IRHO": {
+  "data": [
+   {
+    "figi": "BBG01VF1P1N6",
+    "name": "IRON HORSE ACQUISITIONS CORP",
+    "ticker": "IRHO",
+    "exchCode": "US",
+    "compositeFIGI": "BBG01VF1P1N6",
+    "securityType": "Common Stock",
+    "marketSector": "Equity",
+    "shareClassFIGI": "BBG01VF1P2Y2",
+    "securityType2": "Common Stock",
+    "securityDescription": "IRHO"
+   }
+  ]
+ },
+ "SAAQ": {
+  "data": [
+   {
+    "figi": "BBG01Y5LR459",
+    "name": "SPACE ASSET ACQUISITION-CL A",
+    "ticker": "SAAQ",
+    "exchCode": "US",
+    "compositeFIGI": "BBG01Y5LR459",
+    "securityType": "Common Stock",
+    "marketSector": "Equity",
+    "shareClassFIGI": "BBG01Y5LR529",
+    "securityType2": "Common Stock",
+    "securityDescription": "SAAQ"
+   }
+  ]
+ },
+ "RAC": {
+  "data": [
+   {
+    "figi": "BBG01S4JL169",
+    "name": "RITHM ACQUISITION CORP-A",
+    "ticker": "RAC",
+    "exchCode": "US",
+    "compositeFIGI": "BBG01S4JL169",
+    "securityType": "Common Stock",
+    "marketSector": "Equity",
+    "shareClassFIGI": "BBG01S4JL196",
+    "securityType2": "Common Stock",
+    "securityDescription": "RAC"
+   }
+  ]
+ },
+ "KFII": {
+  "data": [
+   {
+    "figi": "BBG01SMTHN28",
+    "name": "K&F GROWTH ACQUISITION COR-A",
+    "ticker": "KFII",
+    "exchCode": "US",
+    "compositeFIGI": "BBG01SMTHN28",
+    "securityType": "Common Stock",
+    "marketSector": "Equity",
+    "shareClassFIGI": "BBG01SMTHNX4",
+    "securityType2": "Common Stock",
+    "securityDescription": "KFII"
+   }
+  ]
+ },
+ "GCGR": {
+  "data": [
+   {
+    "figi": "BBG02210SK24",
+    "name": "GENERAL CATALYST GL RES-CL A",
+    "ticker": "GCGR",
+    "exchCode": "US",
+    "compositeFIGI": "BBG02210SK24",
+    "securityType": "Common Stock",
+    "marketSector": "Equity",
+    "shareClassFIGI": "BBG02210SL68",
+    "securityType2": "Common Stock",
+    "securityDescription": "GCGR"
+   }
+  ]
+ },
+ "CRAQ": {
+  "data": [
+   {
+    "figi": "BBG01TNMYVY8",
+    "name": "CAL REDWOOD ACQUISIT-CL A",
+    "ticker": "CRAQ",
+    "exchCode": "US",
+    "compositeFIGI": "BBG01TNMYVY8",
+    "securityType": "Common Stock",
+    "marketSector": "Equity",
+    "shareClassFIGI": "BBG01TNMYYB7",
+    "securityType2": "Common Stock",
+    "securityDescription": "CRAQ"
+   }
+  ]
+ },
+ "AACI": {
+  "data": [
+   {
+    "figi": "BBG020B9B3C3",
+    "name": "ARMADA ACQ CORP III-A",
+    "ticker": "AACI",
+    "exchCode": "US",
+    "compositeFIGI": "BBG020B9B3C3",
+    "securityType": "Common Stock",
+    "marketSector": "Equity",
+    "shareClassFIGI": "BBG020B9B4C1",
+    "securityType2": "Common Stock",
+    "securityDescription": "AACI"
+   }
+  ]
+ },
+ "CAII": {
+  "data": [
+   {
+    "figi": "BBG0234YKNK7",
+    "name": "COLLECTIVE ACQUIS CORP CL-A",
+    "ticker": "CAII",
+    "exchCode": "US",
+    "compositeFIGI": "BBG0234YKNK7",
+    "securityType": "Common Stock",
+    "marketSector": "Equity",
+    "shareClassFIGI": "BBG0234YKQG5",
+    "securityType2": "Common Stock",
+    "securityDescription": "CAII"
+   }
+  ]
+ },
+ "DAAQ": {
+  "data": [
+   {
+    "figi": "BBG01SWLK6K7",
+    "name": "DIGITAL ASSET ACQUISITI-CL A",
+    "ticker": "DAAQ",
+    "exchCode": "US",
+    "compositeFIGI": "BBG01SWLK6K7",
+    "securityType": "Common Stock",
+    "marketSector": "Equity",
+    "shareClassFIGI": "BBG01SWLKBV4",
+    "securityType2": "Common Stock",
+    "securityDescription": "DAAQ"
+   }
+  ]
+ },
+ "CCII": {
+  "data": [
+   {
+    "figi": "BBG01V7F8GZ7",
+    "name": "COHEN CIRCLE ACQUISIT II - A",
+    "ticker": "CCII",
+    "exchCode": "US",
+    "compositeFIGI": "BBG01V7F8GZ7",
+    "securityType": "Common Stock",
+    "marketSector": "Equity",
+    "shareClassFIGI": "BBG01V7F8J09",
+    "securityType2": "Common Stock",
+    "securityDescription": "CCII"
+   }
+  ]
+ },
+ "NHIV": {
+  "data": [
+   {
+    "figi": "BBG020DP2H43",
+    "name": "NEWHOLD INVESTMENT CORP IV-A",
+    "ticker": "NHIV",
+    "exchCode": "US",
+    "compositeFIGI": "BBG020DP2H43",
+    "securityType": "Common Stock",
+    "marketSector": "Equity",
+    "shareClassFIGI": "BBG020DP2J12",
+    "securityType2": "Common Stock",
+    "securityDescription": "NHIV"
+   }
+  ]
+ },
+ "DSAC": {
+  "data": [
+   {
+    "figi": "BBG01X61Y143",
+    "name": "DAEDALUS SPECIAL ACQUIS-CL A",
+    "ticker": "DSAC",
+    "exchCode": "US",
+    "compositeFIGI": "BBG01X61Y143",
+    "securityType": "Common Stock",
+    "marketSector": "Equity",
+    "shareClassFIGI": "BBG01X61Y223",
+    "securityType2": "Common Stock",
+    "securityDescription": "DSAC"
+   }
+  ]
+ },
+ "JACS": {
+  "data": [
+   {
+    "figi": "BBG01RXZJLR9",
+    "name": "JACKSON ACQUISITION CO-CL A",
+    "ticker": "JACS",
+    "exchCode": "US",
+    "compositeFIGI": "BBG01RXZJLR9",
+    "securityType": "Common Stock",
+    "marketSector": "Equity",
+    "shareClassFIGI": "BBG01RXZJMQ8",
+    "securityType2": "Common Stock",
+    "securityDescription": "JACS"
+   }
+  ]
+ },
+ "DNMX": {
+  "data": [
+   {
+    "figi": "BBG01WN2ZWS9",
+    "name": "DYNAMIX CORP III-CL A",
+    "ticker": "DNMX",
+    "exchCode": "US",
+    "compositeFIGI": "BBG01WN2ZWS9",
+    "securityType": "Common Stock",
+    "marketSector": "Equity",
+    "shareClassFIGI": "BBG01WN2ZY87",
+    "securityType2": "Common Stock",
+    "securityDescription": "DNMX"
+   }
+  ]
+ },
+ "MLAA": {
+  "data": [
+   {
+    "figi": "BBG01ZBB1547",
+    "name": "MOUNTAIN LAKE ACQUISITI-CL A",
+    "ticker": "MLAA",
+    "exchCode": "US",
+    "compositeFIGI": "BBG01ZBB1547",
+    "securityType": "Common Stock",
+    "marketSector": "Equity",
+    "shareClassFIGI": "BBG01ZBB1627",
+    "securityType2": "Common Stock",
+    "securityDescription": "MLAA"
+   }
+  ]
+ },
+ "IGAC": {
+  "data": [
+   {
+    "figi": "BBG01W9HTHT1",
+    "name": "INVEST GREEN ACQUISITIO-CL A",
+    "ticker": "IGAC",
+    "exchCode": "US",
+    "compositeFIGI": "BBG01W9HTHT1",
+    "securityType": "Common Stock",
+    "marketSector": "Equity",
+    "shareClassFIGI": "BBG01W9HTJP1",
+    "securityType2": "Common Stock",
+    "securityDescription": "IGAC"
+   }
+  ]
+ },
+ "FGII": {
+  "data": [
+   {
+    "figi": "BBG01Z8B7M57",
+    "name": "FG IMPERII ACQUISITION-CL A",
+    "ticker": "FGII",
+    "exchCode": "US",
+    "compositeFIGI": "BBG01Z8B7M57",
+    "securityType": "Common Stock",
+    "marketSector": "Equity",
+    "shareClassFIGI": "BBG01Z8B7N28",
+    "securityType2": "Common Stock",
+    "securityDescription": "FGII"
+   }
+  ]
+ },
+ "HDRN": {
+  "data": [
+   {
+    "figi": "BBG01PNQB784",
+    "name": "HADRON ENERGY INC",
+    "ticker": "HDRN",
+    "exchCode": "US",
+    "compositeFIGI": "BBG01PNQB784",
+    "securityType": "Common Stock",
+    "marketSector": "Equity",
+    "shareClassFIGI": "BBG01PNQB846",
+    "securityType2": "Common Stock",
+    "securityDescription": "HDRN"
+   }
+  ]
+ },
+ "HCAC": {
+  "data": [
+   {
+    "figi": "BBG01WLSQFB9",
+    "name": "HALL CHADWICK ACQUISITION-A",
+    "ticker": "HCAC",
+    "exchCode": "US",
+    "compositeFIGI": "BBG01WLSQFB9",
+    "securityType": "Common Stock",
+    "marketSector": "Equity",
+    "shareClassFIGI": "BBG01WLSQG81",
+    "securityType2": "Common Stock",
+    "securityDescription": "HCAC"
+   }
+  ]
+ },
+ "KBON": {
+  "data": [
+   {
+    "figi": "BBG01ZBB4P40",
+    "name": "KARBON CAPITAL PARTNERS-CL A",
+    "ticker": "KBON",
+    "exchCode": "US",
+    "compositeFIGI": "BBG01ZBB4P40",
+    "securityType": "Common Stock",
+    "marketSector": "Equity",
+    "shareClassFIGI": "BBG01ZBB4QL9",
+    "securityType2": "Common Stock",
+    "securityDescription": "KBON"
+   }
+  ]
+ },
+ "SVIV": {
+  "data": [
+   {
+    "figi": "BBG01ZTVYWK1",
+    "name": "SPRING VALLEY ACQUISITIO-A",
+    "ticker": "SVIV",
+    "exchCode": "US",
+    "compositeFIGI": "BBG01ZTVYWK1",
+    "securityType": "Common Stock",
+    "marketSector": "Equity",
+    "shareClassFIGI": "BBG01ZTVYWS3",
+    "securityType2": "Common Stock",
+    "securityDescription": "SVIV"
+   }
+  ]
+ },
+ "COLA": {
+  "data": [
+   {
+    "figi": "BBG01SJXPX04",
+    "name": "COLUMBUS ACQUISITION CORP",
+    "ticker": "COLA",
+    "exchCode": "US",
+    "compositeFIGI": "BBG01SJXPX04",
+    "securityType": "Common Stock",
+    "marketSector": "Equity",
+    "shareClassFIGI": "BBG01SJXPXX8",
+    "securityType2": "Common Stock",
+    "securityDescription": "COLA"
+   }
+  ]
+ },
+ "MTNE": {
+  "data": [
+   {
+    "figi": "BBG01RQ8SWR3",
+    "name": "CH4 NATURAL SOLUTIONS ACQU-A",
+    "ticker": "MTNE",
+    "exchCode": "US",
+    "compositeFIGI": "BBG01RQ8SWR3",
+    "securityType": "Common Stock",
+    "marketSector": "Equity",
+    "shareClassFIGI": "BBG01RQ8SXM6",
+    "securityType2": "Common Stock",
+    "securityDescription": "MTNE"
+   }
+  ]
+ },
+ "SVIA": {
+  "data": [
+   {
+    "figi": "BBG01XG03RZ7",
+    "name": "SILVIA INC",
+    "ticker": "SVIA",
+    "exchCode": "US",
+    "compositeFIGI": "BBG01XG03RZ7",
+    "securityType": "Common Stock",
+    "marketSector": "Equity",
+    "shareClassFIGI": "BBG01XG03SP6",
+    "securityType2": "Common Stock",
+    "securityDescription": "SVIA"
+   }
+  ]
+ },
+ "WENC": {
+  "data": [
+   {
+    "figi": "BBG022004QV6",
+    "name": "WEST ENCLAVE MERGER CORP",
+    "ticker": "WENC",
+    "exchCode": "US",
+    "compositeFIGI": "BBG022004QV6",
+    "securityType": "Common Stock",
+    "marketSector": "Equity",
+    "shareClassFIGI": "BBG022004RD4",
+    "securityType2": "Common Stock",
+    "securityDescription": "WENC"
+   }
+  ]
+ },
+ "AACO": {
+  "data": [
+   {
+    "figi": "BBG01ZJY0407",
+    "name": "ABONY ACQUISITION CORP I-A",
+    "ticker": "AACO",
+    "exchCode": "US",
+    "compositeFIGI": "BBG01ZJY0407",
+    "securityType": "Common Stock",
+    "marketSector": "Equity",
+    "shareClassFIGI": "BBG01ZJY0416",
+    "securityType2": "Common Stock",
+    "securityDescription": "AACO"
+   }
+  ]
+ },
+ "XCBE": {
+  "data": [
+   {
+    "figi": "BBG020WZW1T5",
+    "name": "X3 ACQUISITION CORP LTD-CL A",
+    "ticker": "XCBE",
+    "exchCode": "US",
+    "compositeFIGI": "BBG020WZW1T5",
+    "securityType": "Common Stock",
+    "marketSector": "Equity",
+    "shareClassFIGI": "BBG020WZW2R5",
+    "securityType2": "Common Stock",
+    "securityDescription": "XCBE"
+   }
+  ]
+ },
+ "CXII": {
+  "data": [
+   {
+    "figi": "BBG021FVNWD0",
+    "name": "CHURCHILL CAPITAL CORP-CL A",
+    "ticker": "CXII",
+    "exchCode": "US",
+    "compositeFIGI": "BBG021FVNWD0",
+    "securityType": "Common Stock",
+    "marketSector": "Equity",
+    "shareClassFIGI": "BBG021FVNXC9",
+    "securityType2": "Common Stock",
+    "securityDescription": "CXII"
+   }
+  ]
+ },
+ "PAAC": {
+  "data": [
+   {
+    "figi": "BBG01Z6LM012",
+    "name": "PROEM ACQUISITION CORP I",
+    "ticker": "PAAC",
+    "exchCode": "US",
+    "compositeFIGI": "BBG01Z6LM012",
+    "securityType": "Common Stock",
+    "marketSector": "Equity",
+    "shareClassFIGI": "BBG01Z6LM174",
+    "securityType2": "Common Stock",
+    "securityDescription": "PAAC"
+   }
+  ]
+ },
+ "ARCI": {
+  "data": [
+   {
+    "figi": "BBG01Z97JW05",
+    "name": "ARCHIMEDES TECH SPAC PARTNER",
+    "ticker": "ARCI",
+    "exchCode": "US",
+    "compositeFIGI": "BBG01Z97JW05",
+    "securityType": "Common Stock",
+    "marketSector": "Equity",
+    "shareClassFIGI": "BBG01Z97JW14",
+    "securityType2": "Common Stock",
+    "securityDescription": "ARCI"
+   }
+  ]
+ },
+ "AEAQ": {
+  "data": [
+   {
+    "figi": "BBG01YVPKQS4",
+    "name": "ACTIVATE ENERGY ACQUISITIO-A",
+    "ticker": "AEAQ",
+    "exchCode": "US",
+    "compositeFIGI": "BBG01YVPKQS4",
+    "securityType": "Common Stock",
+    "marketSector": "Equity",
+    "shareClassFIGI": "BBG01YVPKRP5",
+    "securityType2": "Common Stock",
+    "securityDescription": "AEAQ"
+   }
+  ]
+ },
+ "IACO": {
+  "data": [
+   {
+    "figi": "BBG01Y3CT333",
+    "name": "IDEA ACQUISITION CORP CL-A",
+    "ticker": "IACO",
+    "exchCode": "US",
+    "compositeFIGI": "BBG01Y3CT333",
+    "securityType": "Common Stock",
+    "marketSector": "Equity",
+    "shareClassFIGI": "BBG01Y3CT422",
+    "securityType2": "Common Stock",
+    "securityDescription": "IACO"
+   }
+  ]
+ },
+ "BLUW": {
+  "data": [
+   {
+    "figi": "BBG01THFR0W8",
+    "name": "BLUE WATER ACQUISITION C-A",
+    "ticker": "BLUW",
+    "exchCode": "US",
+    "compositeFIGI": "BBG01THFR0W8",
+    "securityType": "Common Stock",
+    "marketSector": "Equity",
+    "shareClassFIGI": "BBG01THFR1T0",
+    "securityType2": "Common Stock",
+    "securityDescription": "BLUW"
+   }
+  ]
+ }
+}

@@ -1,0 +1,7 @@
+OpenFIGI mapping API (Bloomberg-operated open symbology service), https://api.openfigi.com/v3/mapping, no API key.
+Retrieved: 2026-09-30.
+openfigi-mapping-by-cusip.json: one job per sampled CUSIP (301). idType ID_CUSIP for CUSIPs starting with a digit, ID_CINS for those starting with a letter. 13 CUSIPs return "No identifier found". Raw responses.
+  SHA-256: 9a1141675ca75000b50f24cc375e994a3fe65322e6f1d59b0395b2097e04da5d
+openfigi-mapping-by-ticker-underlying.json: one job per underlying ticker (idType TICKER, exchCode US), for the issuer's common stock or ADS behind each convertible, warrant and right. Raw responses.
+  SHA-256: 6cab1d687e1a1459e0880c850906e4c311dfcbc405c30b6e4502b9f65bb6184e
+The micCode request filter returned nothing for known US listings, so per-venue FIGI is not mapped to a MIC.

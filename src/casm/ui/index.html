@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>C.A.S.M Security Master</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" rel="stylesheet">
+<script src="https://cdn.tailwindcss.com?plugins=typography"></script>
+<script id="tailwind-config">tailwind.config={darkMode:"class",theme:{extend:{"colors":{"tertiary-fixed":"#e4e2e1","on-secondary-container":"#636262","surface-variant":"#e3e2e2","surface-container-high":"#e9e8e8","error":"#ba1a1a","secondary":"#5f5e5e","surface-container-low":"#f4f3f3","on-tertiary":"#ffffff","surface-container-highest":"#e3e2e2","on-primary-container":"#f3f3ff","on-error-container":"#93000a","surface-container":"#efeded","primary-container":"#0f62fe","outline-variant":"#c3c6d8","on-primary-fixed-variant":"#003da9","on-tertiary-fixed-variant":"#474747","secondary-fixed-dim":"#c8c6c5","primary":"#004ccd","on-background":"#1b1c1c","tertiary-fixed-dim":"#c8c6c6","on-secondary":"#ffffff","inverse-primary":"#b4c5ff","on-secondary-fixed-variant":"#474746","surface-container-lowest":"#ffffff","surface":"#faf9f9","on-surface":"#1b1c1c","on-primary-fixed":"#00174c","inverse-surface":"#2f3031","secondary-container":"#e2dfde","tertiary":"#575757","secondary-fixed":"#e5e2e1","on-error":"#ffffff","primary-fixed":"#dbe1ff","primary-fixed-dim":"#b4c5ff","on-tertiary-container":"#f6f3f3","outline":"#737687","surface-tint":"#0052dd","error-container":"#ffdad6","on-primary":"#ffffff","on-tertiary-fixed":"#1b1c1c","on-surface-variant":"#424656","background":"#faf9f9","tertiary-container":"#706f6f","on-secondary-fixed":"#1c1b1b","surface-bright":"#faf9f9","inverse-on-surface":"#f2f0f0","surface-dim":"#dbdad9"},"borderRadius":{"DEFAULT":"0.25rem","lg":"0.5rem","xl":"0.75rem","full":"9999px"},"spacing":{"space-xl":"2rem","space-sm":"0.5rem","margin":"1rem","space-xs":"0.25rem","space-lg":"1.5rem","gutter":"1rem","space-md":"1rem"},"fontFamily":{"body-sm":["IBM Plex Sans"],"code-md":["JetBrains Mono"],"headline-lg":["IBM Plex Sans"],"body-lg":["IBM Plex Sans"],"headline-md":["IBM Plex Sans"],"code-sm":["JetBrains Mono"],"label-sm":["IBM Plex Sans"],"label-md":["IBM Plex Sans"],"headline-xl":["IBM Plex Sans"],"body-md":["IBM Plex Sans"],"headline-sm":["IBM Plex Sans"]},"fontSize":{"body-sm":["12px",{"lineHeight":"16px","letterSpacing":"0.02em","fontWeight":"400"}],"code-md":["13px",{"lineHeight":"18px","letterSpacing":"0","fontWeight":"400"}],"headline-lg":["24px",{"lineHeight":"32px","letterSpacing":"0","fontWeight":"400"}],"body-lg":["16px",{"lineHeight":"24px","letterSpacing":"0","fontWeight":"400"}],"headline-md":["20px",{"lineHeight":"28px","letterSpacing":"0","fontWeight":"500"}],"code-sm":["11px",{"lineHeight":"14px","letterSpacing":"0.02em","fontWeight":"500"}],"label-sm":["12px",{"lineHeight":"16px","letterSpacing":"0.02em","fontWeight":"500"}],"label-md":["14px",{"lineHeight":"18px","letterSpacing":"0.01em","fontWeight":"600"}],"headline-xl":["32px",{"lineHeight":"40px","letterSpacing":"-0.01em","fontWeight":"400"}],"body-md":["14px",{"lineHeight":"20px","letterSpacing":"0.01em","fontWeight":"400"}],"headline-sm":["16px",{"lineHeight":"24px","letterSpacing":"0","fontWeight":"600"}]}}}}</script>
+<link rel="icon" href="data:,">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body class="bg-surface font-body-md text-on-surface antialiased">
+<header class="fixed top-0 left-0 right-0 z-50 h-12 bg-surface-container-lowest border-b border-surface-container-high">
+  <div class="w-full h-12 flex items-center justify-between">
+    <div class="flex items-center h-full">
+      <div class="w-12 h-12 flex items-center justify-center text-on-surface"><span class="material-symbols-outlined text-[20px]">apps</span></div>
+      <div class="flex items-center gap-space-sm pl-space-sm pr-space-md h-full">
+        <span class="font-headline-sm text-headline-sm font-semibold tracking-wider text-on-surface">C.A.S.M [Prototype]</span>
+      </div>
+      <nav class="flex items-center h-full ml-space-sm" id="mainNav">
+        <a data-route="securities" href="#/securities" class="h-full px-space-md flex items-center font-label-md text-label-md transition-colors">Securities</a>
+        <a data-route="reference" href="#/reference" class="h-full px-space-md flex items-center font-label-md text-label-md transition-colors">Reference Data</a>
+        <a data-route="wiki" href="#/wiki" class="h-full px-space-md flex items-center font-label-md text-label-md transition-colors">Wiki</a>
+      </nav>
+    </div>
+  </div>
+</header>
+<main id="app" class="w-full pt-12 bg-surface min-h-[calc(100vh-48px)]"></main>
+<footer class="w-full bg-surface-container-low border-t border-surface-container-high py-space-sm px-space-md">
+  <div class="w-full flex flex-col md:flex-row items-center justify-between gap-space-xs font-body-sm text-body-sm text-secondary">
+    <span id="footerBuild">C.A.S.M [Prototype] &bull; Security Master</span>
+    <span>Reference data only: no positions, quantities or values</span>
+  </div>
+</footer>
+<script src="config.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/marked@12/marked.min.js"></script>
+<script type="module">
+  import mermaid from "https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.esm.min.mjs";
+  mermaid.initialize({ startOnLoad: false, theme: "neutral", securityLevel: "loose", flowchart: { htmlLabels: false }, fontFamily: "IBM Plex Sans, sans-serif" });
+  window.mermaid = mermaid;
+</script>
+<script type="module" src="js/main.js"></script>
+</body>
+</html>

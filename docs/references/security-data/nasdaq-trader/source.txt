@@ -1,0 +1,5 @@
+Nasdaq Trader symbol directory: https://www.nasdaqtrader.com/dynamic/SymDir/nasdaqlisted.txt and otherlisted.txt
+Retrieved: 2026-09-30 (file creation time 09/30/2026 18:01 in the files).
+nasdaqlisted.txt = Nasdaq-listed (MIC XNAS). otherlisted.txt Exchange column: A NYSE American (XASE), N NYSE (XNYS), P NYSE Arca (ARCX), Z Cboe BZX (BATS), V IEX (IEXG). Test issues (Test Issue = Y) are ignored.
+SHA-256 nasdaqlisted.txt: c3b78c8e5df3d431b9320bdd11d5e291472ba7a15dd96960ba9427e9a49d0cbf
+SHA-256 otherlisted.txt:  2980d583bcd5e9913a7054149f94fceded6555dffff3bb92156e7597884f893b

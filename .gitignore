@@ -213,6 +213,16 @@ tempCodeRunnerFile.py
 marimo/_static/
 marimo/_lsp/
 __marimo__/
-
+.idea
 # Streamlit
 .streamlit/secrets.toml
+# Generated DuckDB database
+src/db/
+
+# Generated DuckDB database (run src/casm/db/migrate.py)
+src/casm/db/casm.db
+src/casm/db/casm.db.wal
+/.prototype
+
+# API log files (src/main.py --log-file)
+logs/
