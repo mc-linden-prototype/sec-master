@@ -1,8 +1,3 @@
----
-name: readme
-description: Front door for C.A.S.M: what it is, how to run it, the monorepo layout, the Claude skills, the wiki reading order, the subsystems as built, the seed data sources and the known gaps.
----
-
 # C.A.S.M Security Master
 
 C.A.S.M (Cross Asset Security Master) is a **security master**: reference data only, meaning what a
